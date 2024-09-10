@@ -1,2 +1,2 @@
 # cursojs
-códigos do curso java scrip SENAI
+códigos do curso java script SENAI
